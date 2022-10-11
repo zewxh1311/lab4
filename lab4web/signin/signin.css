@@ -1,0 +1,35 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+*, *::after, *::before{
+    box-sizing: border-box;
+}
+
+.headersigin{
+    background-color: black;
+}
+
+.headersigin > span{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    padding: 0px 10px   ;
+}
+
+.form{
+    margin-top: 20px;
+}
+
+.textmain{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+#footersignin{
+    background-color: black;
+}

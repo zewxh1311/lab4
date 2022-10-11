@@ -1,0 +1,41 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+*, *::after, *::before{
+    box-sizing: border-box;
+}
+
+.headerfaq{
+    background-color: black;
+}
+
+.headerfaq > span{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    padding: 0px 10px   ;
+}
+
+.faqall{
+    margin-top: 20px;
+}
+
+.faqall > p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.faqall > h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#footerfaq{
+    background-color: black;
+}

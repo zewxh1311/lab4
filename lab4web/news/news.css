@@ -1,0 +1,25 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+*, *::after, *::before{
+    box-sizing: border-box;
+}
+
+.headernews{
+    background-color: black;
+}
+
+header > span{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    padding: 0px 10px   ;
+}
+
+.footernews{
+    background-color: black;
+}
